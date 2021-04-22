@@ -1,0 +1,12 @@
+[21-Apr-2021 11:09:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/vltonmvz6o6k/public_html/beta/abcmotors/deleteme.wpy9cp.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vltonmvz6o6k/public_html/beta/abcmotors/deleteme.wpy9cp.php on line 16
+[21-Apr-2021 11:09:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/vltonmvz6o6k/public_html/beta/abcmotors/deleteme.wpteea.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vltonmvz6o6k/public_html/beta/abcmotors/deleteme.wpteea.php on line 16
+[21-Apr-2021 11:09:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/vltonmvz6o6k/public_html/beta/abcmotors/deleteme.wppgds.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vltonmvz6o6k/public_html/beta/abcmotors/deleteme.wppgds.php on line 16
